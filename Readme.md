@@ -22,7 +22,7 @@ Simply open `index.html` in your web browser, or visit the GitHub Pages URL once
 ## Design
 
 The website features:
-- Microsoft Fabric/Power BI color scheme (teal and green gradients)
+- Teal and green gradient color scheme
 - Modern, responsive design that works on desktop and mobile
 - Interactive hover effects on topic cards
 - Clean, professional layout optimized for readability
